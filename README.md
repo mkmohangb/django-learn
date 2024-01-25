@@ -7,5 +7,6 @@
 - python manage.py runserver
 
 - python manage.py startapp APP_NAME
+- python manage.py makemigrations
 - python manage.py migrate
 ```
