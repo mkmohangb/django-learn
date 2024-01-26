@@ -1,5 +1,5 @@
-[Django from CS50 Web Programming course - wk 3](https://cs50.harvard.edu/web/2020/weeks/3/)
-[Django from CS50 Web Programming course - wk 4](https://cs50.harvard.edu/web/2020/weeks/4/)
+- [Django from CS50 Web Programming course - wk 3](https://cs50.harvard.edu/web/2020/weeks/3/)
+- [Django from CS50 Web Programming course - wk 4](https://cs50.harvard.edu/web/2020/weeks/4/)
 
 ```
 - pip install Django
